@@ -1,12 +1,17 @@
-$primary-color: #ffffff;
-$secondary-color: #000000;
-$tertiary-color-dark: #1b9df0;
-$quaternary-color-light: #43b1f8;
-$quinary-color-dark: #545454;
-$senary-color-light: #a6a6a6;
+// palette the color Dw3
+$primary-white: #ffffff;
+$secondary-black: #000000;
+$primary-grey-dark: #545454;
+$secondary-grey-light: #a6a6a6;
+// palette the color blue
+$primary-color-blue: #030329;
+$primary-blue-king: #110951;
+$primary-blue-aquamarine: #03bbf0;
+$secondary-blue-light: #1b9df0;
+$third-blue-light: #43b1f8;
 
 div {
-  background-color: $primary-color;
-  color: $tertiary-color-dark;
+  background-color: $primary-white;
+  color: $primary-blue-aquamarine;
 }
 
