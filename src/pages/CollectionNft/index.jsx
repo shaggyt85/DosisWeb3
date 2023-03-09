@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import { CollectionNftTheme } from "@components/CollectionNftTheme";
 
 const CollectionNft = () => {
   return (
-    <div>ColectionNft</div>
-  )
-}
+    <div>
+      <CollectionNftTheme />
+    </div>
+  );
+};
 
-export {CollectionNft}
+export { CollectionNft };

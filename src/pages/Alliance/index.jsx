@@ -1,8 +1,14 @@
 import React from 'react'
+import { GalleryAlliance } from '@components/GalleryAlliance'
+import { MessageAlliance } from '@components/MessageAlliance'
 
 const Alliance = () => {
   return (
-    <div>Alliance</div>
+    <>
+      <h2>Alianzas</h2>
+      <GalleryAlliance />
+      <MessageAlliance />
+    </>
   )
 }
 
