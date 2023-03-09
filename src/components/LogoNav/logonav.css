@@ -1,0 +1,11 @@
+.logo__Nav{
+    display: flex;
+    align-items: center;
+}
+.img__logo{
+    width: 40px;
+}
+.tittle__img{
+    color: white;
+    padding-left: 2rem;
+}

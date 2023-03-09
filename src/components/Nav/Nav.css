@@ -1,0 +1,11 @@
+.Nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 0 ;
+    background-color: #110951;
+}
+
+@media (min-width:768px){
+    .remove__nav{display: none;}
+}

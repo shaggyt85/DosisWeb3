@@ -1,0 +1,25 @@
+.nav__mobil{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    position: fixed;
+    margin-top: 40rem;
+    background-color: #43b1f8;
+    width: 70vw;
+    height: 30vh;
+    text-decoration: none;
+    top: -31.2rem;
+    left: 6rem;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.IoMenu{
+    color: #43b1f8;
+}
+.movil__tittle__box{
+    padding: 2rem;
+}

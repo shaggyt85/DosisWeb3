@@ -10,13 +10,13 @@ import {Home} from '@pages/Home'
 const App = () => {
   return (<>
     <Nav />
-    <main>
+    {/* <main>
       <Home />
       <Team />
       <CollectionNft />
       <Alliance />
       <Contact />
-    </main>
+    </main> */}
   </>
   )
 }
